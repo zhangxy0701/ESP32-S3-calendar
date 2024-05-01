@@ -1,0 +1,16 @@
+{
+  "codename": "Font32px",
+  "ttf_path": "/assets/fonts/HarmonyOS_Sans_SC_Medium.ttf",
+  "bin_path": "/assets/fonts\\ui_font_Font32px.bin",
+  "c_path": "/assets/fonts\\ui_font_Font32px.c",
+  "cfg_path": "/assets/fonts\\ui_font_Font32px.fcfg",
+  "size": 32,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "年月日星期一二三四五六天",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
